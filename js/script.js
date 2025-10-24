@@ -152,8 +152,8 @@ if (backToTop) {
 
 // Typewriter Effect
 let texts = [
-    'Desenvolvedor',
-    'Dados e IA'
+    'Dados e IA',
+    'Desenvolvedor'
 ];
 
 let textIndex = 0;
@@ -323,7 +323,7 @@ const translations = {
         'contact.form.subject': 'Assunto *',
         'contact.form.message': 'Mensagem *',
         'contact.form.send': 'Enviar Mensagem',
-        'footer.description': 'Especializado em Dados e IA, criando soluções digitais que transformam negócios.',
+        'footer.description': 'Engenheiro de Dados especializado em Python, SQL, Power BI e Machine Learning.',
         'footer.navigation': 'Navegação',
         'footer.services': 'Serviços',
         'footer.contact': 'Contato',
@@ -663,9 +663,9 @@ function changeLanguage(lang) {
     
     // Update typewriter texts based on language
     const typewriterTexts = {
-        pt: ['Desenvolvedor', 'Dados e IA'],
-        en: ['Developer', 'Data & AI'],
-        es: ['Desarrollador', 'Datos e IA']
+        pt: ['Dados e IA', 'Desenvolvedor'],
+        en: ['Data & AI', 'Developer'],
+        es: ['Datos e IA', 'Desarrollador']
     };
     
     // Update the global texts array
