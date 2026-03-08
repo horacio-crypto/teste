@@ -223,13 +223,13 @@ const translations = {
         'about.subtitle': 'Conheça mais',
         'about.title': 'Sobre Mim',
         'about.intro': 'Desenvolvo soluções digitais que tornam a vida das pessoas mais simples.',
-        'about.description': 'Profissional da área tecnologia especializado em dados, com experiência na análise, engenharia e ciência de dados, tendo atuado em empresas de destaque do mercado financeiro. Possui experiência no desenvolvimento de pipelines de dados, implementação e monitoramento de modelos de Machine Learning, além da criação de dashboards. Atua com ferramentas como Python, SQL, Power BI, PySpark, AWS e Excel com foco em automação e geração de valor.',
+        'about.description': 'Profissional da área tecnologia especializado em dados, com experiência na análise, engenharia e ciência de dados, tendo atuado em empresas de destaque do mercado financeiro. Trabalha com Python, SQL, Power BI, PySpark, AWS e Excel com foco em automação e geração de valor.',
         'about.education': 'Formação',
         'about.experience': 'Experiência',
         'about.certifications': 'Certificações',
         'about.downloadCV': 'Download CV',
-        'timeline.ceo.title': 'CEO e Fundador - Empresa',
-        'timeline.ceo.description': 'Descrição da empresa',
+        'timeline.cielo.title': 'Analista de Dados e Automação - Cielo',
+        'timeline.cielo.description': 'Responsável pela análise de dados, automações e dashboards para apoiar decisões estratégicas',
         'timeline.itau.title': 'Engenharia de Dados e Machine Learning - Itaú Unibanco',
         'timeline.itau.description': 'Responsável por garantir tratamento, consistência e qualidade dos dados',
         'timeline.fgc.title': 'Pesquisa e Modelagem de Riscos - FGC',
@@ -349,7 +349,7 @@ const translations = {
         'chatbot.responses.thanks': 'Fico feliz em ajudar! 😊 Há mais alguma coisa que gostaria de saber?',
         'chatbot.responses.fallback': 'Interessante pergunta! Posso ajudar com informações sobre formação, experiência, projetos ou contato do Niwan. 🤔',
         'chatbot.responses.skills': 'Habilidades do Niwan:\n\n🔥 Expert: Python, SQL, HTML5, CSS3\n⚡ Avançado: Power BI, Excel, JavaScript, PySpark\n📈 Intermediário: AWS, React, Figma',
-        'chatbot.responses.experience': 'O Niwan tem 2+ anos de experiência. Atualmente trabalha como Engenheiro de Dados e Machine Learning no Itaú Unibanco, responsável por garantir tratamento, consistência e qualidade dos dados. 🏢',
+        'chatbot.responses.experience': 'O Niwan tem 2+ anos de experiência. Atualmente trabalha como Analista de Dados e Automação na Cielo, realizando análise de dados, desenvolvendo automações e dashboards para apoiar decisões estratégicas. 🏢',
         'chatbot.responses.projects': 'Principais projetos do Niwan:\n\n• **Dashboard Financeiro**: Projeto no Power BI para monitorar desempenho de negócios\n• **Dashboard Vendas**: Análise de vendas com Power BI e DAX\n• **Website Portfolio**: Site pessoal desenvolvido em HTML, CSS e JavaScript\n\nTodos focados em transformar dados em insights! 📊✨',
         'chatbot.responses.contact': 'Formas de contato:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\nEscolha a que preferir! 😊'
     },
@@ -378,8 +378,8 @@ const translations = {
         'about.experience': 'Experience',
         'about.certifications': 'Certifications',
         'about.downloadCV': 'Download CV',
-        'timeline.ceo.title': 'CEO and Founder - Company',
-        'timeline.ceo.description': 'Company description',
+        'timeline.cielo.title': 'Data and Automation Analyst - Cielo',
+        'timeline.cielo.description': 'Responsible for data analysis, automations and dashboards to support strategic decisions',
         'timeline.itau.title': 'Data Engineering and Machine Learning - Itaú Unibanco',
         'timeline.itau.description': 'Responsible for ensuring data treatment, consistency and quality',
         'timeline.fgc.title': 'Research and Risk Modeling - FGC',
@@ -498,7 +498,7 @@ const translations = {
         'chatbot.responses.thanks': 'Happy to help! 😊 Is there anything else you\'d like to know?',
         'chatbot.responses.fallback': 'Interesting question! I can help with information about education, experience, projects or Niwan\'s contact. 🤔',
         'chatbot.responses.skills': 'Niwan\'s skills:\n\n🔥 Expert: Python, SQL, HTML5, CSS3\n⚡ Advanced: Power BI, Excel, JavaScript, PySpark\n📈 Intermediate: AWS, React, Figma',
-        'chatbot.responses.experience': 'Niwan has 2+ years of experience. Currently works as Data Engineer and Machine Learning at Itaú Unibanco, responsible for ensuring data treatment, consistency and quality. 🏢',
+        'chatbot.responses.experience': 'Niwan has 2+ years of experience. Currently works as a Data and Automation Analyst at Cielo, performing data analysis, developing automations and dashboards to support strategic decisions. 🏢',
         'chatbot.responses.projects': 'Niwan\'s main projects:\n\n• **Financial Dashboard**: Power BI project to monitor business performance\n• **Sales Dashboard**: Sales analysis with Power BI and DAX\n• **Portfolio Website**: Personal website developed in HTML, CSS and JavaScript\n\nAll focused on transforming data into insights! 📊✨',
         'chatbot.responses.contact': 'Contact options:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\nChoose your preferred one! 😊'
     },
@@ -526,8 +526,8 @@ const translations = {
         'about.education': 'Formación',
         'about.experience': 'Experiencia',
         'about.certifications': 'Certificaciones',
-        'timeline.ceo.title': 'CEO y Fundador - Empresa',
-        'timeline.ceo.description': 'Descripción de la empresa',
+        'timeline.cielo.title': 'Analista de Datos y Automatización - Cielo',
+        'timeline.cielo.description': 'Responsable del análisis de datos, automatizaciones y dashboards para apoyar decisiones estratégicas',
         'timeline.itau.title': 'Ingeniería de Datos y Machine Learning - Itaú Unibanco',
         'timeline.itau.description': 'Responsable de garantizar el tratamiento, consistencia y calidad de los datos',
         'timeline.fgc.title': 'Investigación y Modelado de Riesgos - FGC',
@@ -646,7 +646,7 @@ const translations = {
         'chatbot.responses.thanks': '¡Me alegra ayudar! 😊 ¿Hay algo más que te gustaría saber?',
         'chatbot.responses.fallback': '¡Pregunta interesante! Puedo ayudar con información sobre formación, experiencia, proyectos o contacto de Niwan. 🤔',
         'chatbot.responses.skills': 'Habilidades de Niwan:\n\n🔥 Experto: Python, SQL, HTML5, CSS3\n⚡ Avanzado: Power BI, Excel, JavaScript, PySpark\n📈 Intermedio: AWS, React, Figma',
-        'chatbot.responses.experience': 'Niwan tiene 2+ años de experiencia. Actualmente trabaja como Ingeniero de Datos y Machine Learning en Itaú Unibanco, responsable de garantizar el tratamiento, consistencia y calidad de los datos. 🏢',
+        'chatbot.responses.experience': 'Niwan tiene 2+ años de experiencia. Actualmente trabaja como Analista de Datos y Automatización en Cielo, realizando análisis de datos, desarrollando automatizaciones y dashboards para apoyar decisiones estratégicas. 🏢',
         'chatbot.responses.projects': 'Principales proyectos de Niwan:\n\n• **Dashboard Financiero**: Proyecto en Power BI para monitorear rendimiento empresarial\n• **Dashboard de Ventas**: Análisis de ventas con Power BI y DAX\n• **Sitio Web Portfolio**: Sitio personal desarrollado en HTML, CSS y JavaScript\n\n¡Todos enfocados en transformar datos en insights! 📊✨',
         'chatbot.responses.contact': 'Opciones de contacto:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\n¡Elige la que prefieras! 😊'
     }
@@ -1100,7 +1100,7 @@ class IntelligentChatbot {
             personal: {
                 name: 'Niwan Bernardo Batista',
                 location: 'São Paulo, SP',
-                role: 'Engenheiro de Dados e Machine Learning no Itaú Unibanco',
+                role: 'Analista de Dados e Automação na Cielo',
                 passion: 'desenvolver soluções digitais que tornam a vida das pessoas mais simples'
             },
             education: {
@@ -1109,10 +1109,13 @@ class IntelligentChatbot {
                 focus: 'Ciência de Dados, Machine Learning e Engenharia de Dados'
             },
             work: {
-                current: 'Engenharia de Dados e Machine Learning - Itaú Unibanco (2024-presente)',
-                previous: 'Pesquisa e Modelagem de Riscos - FGC (2024)',
+                current: 'Analista de Dados e Automação - Cielo (2025-presente)',
+                previous: [
+                    'Engenharia de Dados e Machine Learning - Itaú Unibanco (2024-2025)',
+                    'Pesquisa e Modelagem de Riscos - FGC (2024)'
+                ],
                 experience: '2+ anos em dados',
-                responsibilities: 'desenvolvimento de pipelines de dados, implementação e monitoramento de modelos de ML, criação de dashboards'
+                responsibilities: 'análise de dados, desenvolvimento de automações em Python e SQL, criação de dashboards em Power BI, integração com AWS e Databricks'
             },
             skills: {
                 expert: ['Python', 'SQL', 'HTML5', 'CSS3'],
