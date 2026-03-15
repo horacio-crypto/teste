@@ -296,8 +296,8 @@ const translations = {
         'testimonials.testimonial3.role': 'Subject Matter Expert',
         'blog.subtitle': 'Últimas novidades',
         'blog.title': 'Blog & Insights',
-        'blog.post1.title': 'Início no Itaú Unibanco',
-        'blog.post1.description': 'Nesta publicação, compartilho a conquista de trabalhar no Itaú Unibanco.',
+        'blog.post1.title': 'Início na Cielo',
+        'blog.post1.description': 'Nesta publicação, compartilho a conquista de trabalhar na Cielo.',
         'blog.post2.title': 'Aprovação Harvard',
         'blog.post2.description': 'Nessa publicação, compartilho minha aprovação no curso Fundamentos dos Negócios de Harvard.',
         'blog.post3.title': 'Aprovação Santander Coders',
@@ -323,7 +323,7 @@ const translations = {
         'contact.form.subject': 'Assunto *',
         'contact.form.message': 'Mensagem *',
         'contact.form.send': 'Enviar Mensagem',
-        'footer.description': 'Engenheiro de Dados especializado em Python, SQL, Power BI e Machine Learning.',
+        'footer.description': 'Analista de Dados especializado em criar soluções digitais inovadoras.',
         'footer.navigation': 'Navegação',
         'footer.services': 'Serviços',
         'footer.contact': 'Contato',
@@ -372,8 +372,8 @@ const translations = {
         'hero.floating.frontend': 'Frontend',
         'about.subtitle': 'Get to know more',
         'about.title': 'About Me',
-        'about.intro': 'My name is Niwan Bernardo Batista, a technology professional, pursuing a Bachelor\'s degree in Data Science at the Virtual University of São Paulo State (UNIVESP).',
-        'about.description': 'Currently, I work in Data Engineering and Machine Learning at Itaú Unibanco, where I am responsible for ensuring data treatment, consistency and quality.',
+        'about.intro': 'I develop digital solutions that make people\'s lives simpler.',
+        'about.description': 'Technology professional specialized in data, with experience in data analysis, engineering and science, having worked at leading companies in the financial market. Works with Python, SQL, Power BI, PySpark, AWS and Excel with a focus on automation and value generation.',
         'about.education': 'Education',
         'about.experience': 'Experience',
         'about.certifications': 'Certifications',
@@ -446,8 +446,8 @@ const translations = {
         'testimonials.testimonial3.role': 'Subject Matter Expert',
         'blog.subtitle': 'Latest news',
         'blog.title': 'Blog & Insights',
-        'blog.post1.title': 'Starting at Itaú Unibanco',
-        'blog.post1.description': 'In this post, I share the achievement of working at Itaú Unibanco.',
+        'blog.post1.title': 'Starting at Cielo',
+        'blog.post1.description': 'In this post, I share the achievement of working at Cielo.',
         'blog.post2.title': 'Harvard Approval',
         'blog.post2.description': 'In this post, I share my approval in Harvard\'s Business Fundamentals course.',
         'blog.post3.title': 'Santander Coders Approval',
@@ -473,7 +473,7 @@ const translations = {
         'contact.form.subject': 'Subject *',
         'contact.form.message': 'Message *',
         'contact.form.send': 'Send Message',
-        'footer.description': 'Data Engineer specialized in creating innovative digital solutions.',
+        'footer.description': 'Data Analyst specialized in creating innovative digital solutions.',
         'footer.navigation': 'Navigation',
         'footer.services': 'Services',
         'footer.contact': 'Contact',
@@ -521,8 +521,8 @@ const translations = {
         'hero.floating.frontend': 'Frontend',
         'about.subtitle': 'Conoce más',
         'about.title': 'Sobre Mí',
-        'about.intro': 'Me llamo Niwan Bernardo Batista, profesional del área de tecnología, cursando Licenciatura en Ciencia de Datos en la Universidad Virtual del Estado de São Paulo (UNIVESP).',
-        'about.description': 'Actualmente, trabajo en el área de Ingeniería de Datos y Machine Learning en Itaú Unibanco, donde soy responsable de garantizar el tratamiento, consistencia y calidad de los datos.',
+        'about.intro': 'Desarrollo soluciones digitales que hacen la vida de las personas más simple.',
+        'about.description': 'Profesional del área de tecnología especializado en datos, con experiencia en análisis, ingeniería y ciencia de datos, habiendo trabajado en empresas destacadas del mercado financiero. Trabaja con Python, SQL, Power BI, PySpark, AWS y Excel con enfoque en automatización y generación de valor.',
         'about.education': 'Formación',
         'about.experience': 'Experiencia',
         'about.certifications': 'Certificaciones',
@@ -594,8 +594,8 @@ const translations = {
         'testimonials.testimonial3.role': 'Subject Matter Expert',
         'blog.subtitle': 'Últimas noticias',
         'blog.title': 'Blog e Insights',
-        'blog.post1.title': 'Inicio en Itaú Unibanco',
-        'blog.post1.description': 'En esta publicación, comparto el logro de trabajar en Itaú Unibanco.',
+        'blog.post1.title': 'Inicio en Cielo',
+        'blog.post1.description': 'En esta publicación, comparto el logro de trabajar en Cielo.',
         'blog.post2.title': 'Aprobación Harvard',
         'blog.post2.description': 'En esta publicación, comparto mi aprobación en el curso Fundamentos de Negocios de Harvard.',
         'blog.post3.title': 'Aprobación Santander Coders',
@@ -621,7 +621,7 @@ const translations = {
         'contact.form.subject': 'Asunto *',
         'contact.form.message': 'Mensaje *',
         'contact.form.send': 'Enviar Mensaje',
-        'footer.description': 'Ingeniero de Datos especializado en crear soluciones digitales innovadoras.',
+        'footer.description': 'Analista de Datos especializado en crear soluciones digitales innovadoras.',
         'footer.navigation': 'Navegación',
         'footer.services': 'Servicios',
         'footer.contact': 'Contacto',
@@ -1109,7 +1109,7 @@ class IntelligentChatbot {
                 focus: 'Ciência de Dados, Machine Learning e Engenharia de Dados'
             },
             work: {
-                current: 'Analista de Dados e Automação - Cielo (2025-presente)',
+                current: 'Analista de Dados e Automação - Cielo (2026-presente)',
                 previous: [
                     'Engenharia de Dados e Machine Learning - Itaú Unibanco (2024-2025)',
                     'Pesquisa e Modelagem de Riscos - FGC (2024)'
@@ -1334,7 +1334,7 @@ class IntelligentChatbot {
     }
     
     isAboutWork(msg) {
-        const keywords = ['trabalho', 'emprego', 'empresa', 'itau', 'itaú', 'carreira', 'profissão', 'onde trabalha', 'work', 'job', 'company', 'career', 'profession', 'trabajo', 'empleo', 'carrera', 'profesión'];
+        const keywords = ['trabalho', 'emprego', 'empresa', 'cielo', 'itau', 'itaú', 'carreira', 'profissão', 'onde trabalha', 'work', 'job', 'company', 'career', 'profession', 'trabajo', 'empleo', 'carrera', 'profesión'];
         return keywords.some(keyword => msg.includes(keyword));
     }
     
