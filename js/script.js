@@ -345,7 +345,7 @@ const translations = {
         'chatbot.responses.thanks': 'Fico feliz em ajudar! 😊 Há mais alguma coisa que gostaria de saber?',
         'chatbot.responses.fallback': 'Interessante pergunta! Posso ajudar com informações sobre formação, experiência, projetos ou contato do Niwan. 🤔',
         'chatbot.responses.skills': 'Habilidades do Niwan:\n\n🔥 Expert: Python, SQL, HTML5, CSS3\n⚡ Avançado: Power BI, Excel, JavaScript, PySpark\n📈 Intermediário: AWS, React, Figma',
-        'chatbot.responses.experience': 'O Niwan tem 2+ anos de experiência. Atualmente trabalha como Analista de Dados e Automação na Cielo, realizando análise de dados, desenvolvendo automações e dashboards para apoiar decisões estratégicas. 🏢',
+        'chatbot.responses.experience': 'O Niwan tem 3+ anos de experiência. Atualmente trabalha como Analista de Dados e Automação na Cielo, realizando análise de dados, desenvolvendo automações e dashboards para apoiar decisões estratégicas. 🏢',
         'chatbot.responses.projects': 'Principais projetos do Niwan:\n\n• **Dashboard Financeiro**: Projeto no Power BI para monitorar desempenho de negócios\n• **Dashboard Vendas**: Análise de vendas com Power BI e DAX\n• **Website Portfolio**: Site pessoal desenvolvido em HTML, CSS e JavaScript\n\nTodos focados em transformar dados em insights! 📊✨',
         'chatbot.responses.contact': 'Formas de contato:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\nEscolha a que preferir! 😊'
     },
@@ -490,7 +490,7 @@ const translations = {
         'chatbot.responses.thanks': 'Happy to help! 😊 Is there anything else you\'d like to know?',
         'chatbot.responses.fallback': 'Interesting question! I can help with information about education, experience, projects or Niwan\'s contact. 🤔',
         'chatbot.responses.skills': 'Niwan\'s skills:\n\n🔥 Expert: Python, SQL, HTML5, CSS3\n⚡ Advanced: Power BI, Excel, JavaScript, PySpark\n📈 Intermediate: AWS, React, Figma',
-        'chatbot.responses.experience': 'Niwan has 2+ years of experience. Currently works as a Data and Automation Analyst at Cielo, performing data analysis, developing automations and dashboards to support strategic decisions. 🏢',
+        'chatbot.responses.experience': 'Niwan has 3+ years of experience. Currently works as a Data and Automation Analyst at Cielo, performing data analysis, developing automations and dashboards to support strategic decisions. 🏢',
         'chatbot.responses.projects': 'Niwan\'s main projects:\n\n• **Financial Dashboard**: Power BI project to monitor business performance\n• **Sales Dashboard**: Sales analysis with Power BI and DAX\n• **Portfolio Website**: Personal website developed in HTML, CSS and JavaScript\n\nAll focused on transforming data into insights! 📊✨',
         'chatbot.responses.contact': 'Contact options:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\nChoose your preferred one! 😊'
     },
@@ -634,7 +634,7 @@ const translations = {
         'chatbot.responses.thanks': '¡Me alegra ayudar! 😊 ¿Hay algo más que te gustaría saber?',
         'chatbot.responses.fallback': '¡Pregunta interesante! Puedo ayudar con información sobre formación, experiencia, proyectos o contacto de Niwan. 🤔',
         'chatbot.responses.skills': 'Habilidades de Niwan:\n\n🔥 Experto: Python, SQL, HTML5, CSS3\n⚡ Avanzado: Power BI, Excel, JavaScript, PySpark\n📈 Intermedio: AWS, React, Figma',
-        'chatbot.responses.experience': 'Niwan tiene 2+ años de experiencia. Actualmente trabaja como Analista de Datos y Automatización en Cielo, realizando análisis de datos, desarrollando automatizaciones y dashboards para apoyar decisiones estratégicas. 🏢',
+        'chatbot.responses.experience': 'Niwan tiene 3+ años de experiencia. Actualmente trabaja como Analista de Datos y Automatización en Cielo, realizando análisis de datos, desarrollando automatizaciones y dashboards para apoyar decisiones estratégicas. 🏢',
         'chatbot.responses.projects': 'Principales proyectos de Niwan:\n\n• **Dashboard Financiero**: Proyecto en Power BI para monitorear rendimiento empresarial\n• **Dashboard de Ventas**: Análisis de ventas con Power BI y DAX\n• **Sitio Web Portfolio**: Sitio personal desarrollado en HTML, CSS y JavaScript\n\n¡Todos enfocados en transformar datos en insights! 📊✨',
         'chatbot.responses.contact': 'Opciones de contacto:\n\n📧 Email: niwan-bernardo@hotmail.com\n📱 WhatsApp: (+55) 11 991359164\n💼 LinkedIn: linkedin.com/in/niwanbatista\n\n¡Elige la que prefieras! 😊'
     }
@@ -1102,7 +1102,7 @@ class IntelligentChatbot {
                     'Engenharia de Dados e Machine Learning - Itaú Unibanco (2024-2025)',
                     'Pesquisa e Modelagem de Riscos - FGC (2024)'
                 ],
-                experience: '2+ anos em dados',
+                experience: '3+ anos em dados',
                 responsibilities: 'análise de dados, desenvolvimento de automações em Python e SQL, criação de dashboards em Power BI, integração com AWS e Databricks'
             },
             skills: {
